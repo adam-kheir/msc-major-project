@@ -1,0 +1,26 @@
+<annotation>
+  <folder>JPEGImages</folder>
+  <filename>image_1384</filename>
+  <path>/home/yang/Documents/VOCdevkit/VOC2007/JPEGImages/image_1384.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>284</width>
+    <height>631</height>
+    <depth>1</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>54</xmin>
+      <ymin>2</ymin>
+      <xmax>266</xmax>
+      <ymax>631</ymax>
+    </bndbox>
+  </object>
+</annotation>
