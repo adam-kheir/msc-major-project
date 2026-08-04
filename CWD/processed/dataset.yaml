@@ -1,0 +1,6 @@
+path: "C:/Users/ADAM-/Desktop/MSc Major Project/CWD/processed"
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: gun
