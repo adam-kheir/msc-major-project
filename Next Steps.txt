@@ -1,16 +1,14 @@
-TASKS TO FINISH BY 3/8 -
+Upcoming Tasks
 
-1. Explore more CNN architectures for better FER results
+1 rerun best FER model 3 times and take average of results.
 
-2. Establish a working baseline CWD pipeline using YOLO architectures
-
-3. Explore more algorithms for CWD task
-
-4. Measure speed, latency, and hardware requirements for edge device suitability for BOTH tasks.
+2. Explore more algorithms for CWD task
 
 5. Have some ideas of plausible fusion mechanisms.
 
+6. Find a way to simulate edge device
 
-ask about github olympus not working
+
+
 
 ask about FACE DETECTOR (is it needed to write on/implement, dataset)
