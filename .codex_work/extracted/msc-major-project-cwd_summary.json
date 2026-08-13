@@ -1,0 +1,537 @@
+{
+  "path": "CWD\\msc-major-project-cwd.ipynb",
+  "cells": [
+    {
+      "index": 1,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 88,
+      "outputs": []
+    },
+    {
+      "index": 2,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 187,
+      "outputs": []
+    },
+    {
+      "index": 3,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 101,
+      "outputs": []
+    },
+    {
+      "index": 4,
+      "type": "code",
+      "execution_count": 1,
+      "source_chars": 496,
+      "outputs": []
+    },
+    {
+      "index": 5,
+      "type": "code",
+      "execution_count": 2,
+      "source_chars": 1924,
+      "outputs": [
+        "stream"
+      ]
+    },
+    {
+      "index": 6,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 24,
+      "outputs": []
+    },
+    {
+      "index": 7,
+      "type": "code",
+      "execution_count": 3,
+      "source_chars": 922,
+      "outputs": [
+        "stream"
+      ]
+    },
+    {
+      "index": 8,
+      "type": "code",
+      "execution_count": 4,
+      "source_chars": 705,
+      "outputs": [
+        "display_data"
+      ]
+    },
+    {
+      "index": 9,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 25,
+      "outputs": []
+    },
+    {
+      "index": 10,
+      "type": "code",
+      "execution_count": 5,
+      "source_chars": 796,
+      "outputs": [
+        "display_data"
+      ]
+    },
+    {
+      "index": 11,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 91,
+      "outputs": []
+    },
+    {
+      "index": 12,
+      "type": "code",
+      "execution_count": 6,
+      "source_chars": 1332,
+      "outputs": [
+        "stream"
+      ]
+    },
+    {
+      "index": 13,
+      "type": "code",
+      "execution_count": 7,
+      "source_chars": 341,
+      "outputs": [
+        "display_data"
+      ]
+    },
+    {
+      "index": 14,
+      "type": "code",
+      "execution_count": 8,
+      "source_chars": 492,
+      "outputs": [
+        "display_data"
+      ]
+    },
+    {
+      "index": 15,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 191,
+      "outputs": []
+    },
+    {
+      "index": 16,
+      "type": "code",
+      "execution_count": 9,
+      "source_chars": 1965,
+      "outputs": [
+        "stream"
+      ]
+    },
+    {
+      "index": 17,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 121,
+      "outputs": []
+    },
+    {
+      "index": 18,
+      "type": "code",
+      "execution_count": 10,
+      "source_chars": 837,
+      "outputs": [
+        "stream"
+      ]
+    },
+    {
+      "index": 19,
+      "type": "code",
+      "execution_count": 11,
+      "source_chars": 1791,
+      "outputs": []
+    },
+    {
+      "index": 20,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 23,
+      "outputs": []
+    },
+    {
+      "index": 21,
+      "type": "code",
+      "execution_count": 12,
+      "source_chars": 824,
+      "outputs": []
+    },
+    {
+      "index": 22,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 45,
+      "outputs": []
+    },
+    {
+      "index": 23,
+      "type": "code",
+      "execution_count": 13,
+      "source_chars": 144,
+      "outputs": []
+    },
+    {
+      "index": 24,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 123,
+      "outputs": []
+    },
+    {
+      "index": 25,
+      "type": "code",
+      "execution_count": 14,
+      "source_chars": 749,
+      "outputs": [
+        "stream"
+      ]
+    },
+    {
+      "index": 26,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 97,
+      "outputs": []
+    },
+    {
+      "index": 27,
+      "type": "code",
+      "execution_count": 32,
+      "source_chars": 2032,
+      "outputs": [
+        "stream"
+      ]
+    },
+    {
+      "index": 28,
+      "type": "code",
+      "execution_count": 33,
+      "source_chars": 300,
+      "outputs": [
+        "display_data"
+      ]
+    },
+    {
+      "index": 29,
+      "type": "code",
+      "execution_count": 35,
+      "source_chars": 344,
+      "outputs": [
+        "stream",
+        "display_data"
+      ]
+    },
+    {
+      "index": 30,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 95,
+      "outputs": []
+    },
+    {
+      "index": 31,
+      "type": "code",
+      "execution_count": 36,
+      "source_chars": 916,
+      "outputs": [
+        "display_data"
+      ]
+    },
+    {
+      "index": 32,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 213,
+      "outputs": []
+    },
+    {
+      "index": 33,
+      "type": "code",
+      "execution_count": 37,
+      "source_chars": 1588,
+      "outputs": [
+        "stream"
+      ]
+    },
+    {
+      "index": 34,
+      "type": "code",
+      "execution_count": 60,
+      "source_chars": 559,
+      "outputs": []
+    },
+    {
+      "index": 35,
+      "type": "code",
+      "execution_count": 62,
+      "source_chars": 631,
+      "outputs": []
+    },
+    {
+      "index": 36,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 385,
+      "outputs": []
+    },
+    {
+      "index": 37,
+      "type": "code",
+      "execution_count": 40,
+      "source_chars": 73,
+      "outputs": [
+        "stream"
+      ]
+    },
+    {
+      "index": 38,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 160,
+      "outputs": []
+    },
+    {
+      "index": 39,
+      "type": "code",
+      "execution_count": 41,
+      "source_chars": 699,
+      "outputs": [
+        "stream"
+      ]
+    },
+    {
+      "index": 40,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 305,
+      "outputs": []
+    },
+    {
+      "index": 41,
+      "type": "code",
+      "execution_count": 42,
+      "source_chars": 5494,
+      "outputs": []
+    },
+    {
+      "index": 42,
+      "type": "code",
+      "execution_count": 43,
+      "source_chars": 1454,
+      "outputs": [
+        "display_data",
+        "stream"
+      ]
+    },
+    {
+      "index": 43,
+      "type": "code",
+      "execution_count": 44,
+      "source_chars": 203,
+      "outputs": [
+        "stream",
+        "display_data",
+        "stream",
+        "display_data"
+      ]
+    },
+    {
+      "index": 44,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 125,
+      "outputs": []
+    },
+    {
+      "index": 45,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 104,
+      "outputs": []
+    },
+    {
+      "index": 46,
+      "type": "code",
+      "execution_count": 45,
+      "source_chars": 64,
+      "outputs": [
+        "stream"
+      ]
+    },
+    {
+      "index": 47,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 109,
+      "outputs": []
+    },
+    {
+      "index": 48,
+      "type": "code",
+      "execution_count": 46,
+      "source_chars": 64,
+      "outputs": [
+        "stream"
+      ]
+    },
+    {
+      "index": 49,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 125,
+      "outputs": []
+    },
+    {
+      "index": 50,
+      "type": "code",
+      "execution_count": 47,
+      "source_chars": 64,
+      "outputs": [
+        "stream"
+      ]
+    },
+    {
+      "index": 51,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 105,
+      "outputs": []
+    },
+    {
+      "index": 52,
+      "type": "code",
+      "execution_count": 55,
+      "source_chars": 64,
+      "outputs": [
+        "stream"
+      ]
+    },
+    {
+      "index": 53,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 99,
+      "outputs": []
+    },
+    {
+      "index": 54,
+      "type": "code",
+      "execution_count": 56,
+      "source_chars": 64,
+      "outputs": [
+        "stream"
+      ]
+    },
+    {
+      "index": 55,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 107,
+      "outputs": []
+    },
+    {
+      "index": 56,
+      "type": "code",
+      "execution_count": 57,
+      "source_chars": 64,
+      "outputs": [
+        "stream"
+      ]
+    },
+    {
+      "index": 57,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 527,
+      "outputs": []
+    },
+    {
+      "index": 58,
+      "type": "code",
+      "execution_count": 58,
+      "source_chars": 1235,
+      "outputs": []
+    },
+    {
+      "index": 59,
+      "type": "code",
+      "execution_count": 59,
+      "source_chars": 1066,
+      "outputs": [
+        "stream",
+        "display_data"
+      ]
+    },
+    {
+      "index": 60,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 199,
+      "outputs": []
+    },
+    {
+      "index": 61,
+      "type": "code",
+      "execution_count": 61,
+      "source_chars": 1501,
+      "outputs": [
+        "error"
+      ]
+    }
+  ],
+  "errors": [
+    {
+      "cell": 61,
+      "name": "TypeError",
+      "value": "run_experiment() takes 2 positional arguments but 4 were given"
+    }
+  ],
+  "images": [
+    {
+      "cell": 8,
+      "path": ".codex_work\\extracted\\msc-major-project-cwd_images\\cell_008_output_01_001.png"
+    },
+    {
+      "cell": 10,
+      "path": ".codex_work\\extracted\\msc-major-project-cwd_images\\cell_010_output_01_002.png"
+    },
+    {
+      "cell": 13,
+      "path": ".codex_work\\extracted\\msc-major-project-cwd_images\\cell_013_output_01_003.png"
+    },
+    {
+      "cell": 14,
+      "path": ".codex_work\\extracted\\msc-major-project-cwd_images\\cell_014_output_01_004.png"
+    },
+    {
+      "cell": 28,
+      "path": ".codex_work\\extracted\\msc-major-project-cwd_images\\cell_028_output_01_005.png"
+    },
+    {
+      "cell": 29,
+      "path": ".codex_work\\extracted\\msc-major-project-cwd_images\\cell_029_output_02_006.png"
+    },
+    {
+      "cell": 42,
+      "path": ".codex_work\\extracted\\msc-major-project-cwd_images\\cell_042_output_01_007.png"
+    },
+    {
+      "cell": 43,
+      "path": ".codex_work\\extracted\\msc-major-project-cwd_images\\cell_043_output_02_008.png"
+    },
+    {
+      "cell": 43,
+      "path": ".codex_work\\extracted\\msc-major-project-cwd_images\\cell_043_output_04_009.png"
+    }
+  ]
+}

@@ -14,7 +14,7 @@ device: '0'
 workers: 8
 project: C:\Users\ADAM-\Desktop\MSc Major Project\CWD\results\yolov8n_baseline
 name: train
-exist_ok: false
+exist_ok: true
 pretrained: true
 cls_remap: true
 optimizer: auto

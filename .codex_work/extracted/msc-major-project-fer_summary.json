@@ -1,0 +1,487 @@
+{
+  "path": "FER\\msc-major-project-fer.ipynb",
+  "cells": [
+    {
+      "index": 1,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 38,
+      "outputs": []
+    },
+    {
+      "index": 2,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 26,
+      "outputs": []
+    },
+    {
+      "index": 3,
+      "type": "code",
+      "execution_count": 84,
+      "source_chars": 1233,
+      "outputs": []
+    },
+    {
+      "index": 4,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 16,
+      "outputs": []
+    },
+    {
+      "index": 5,
+      "type": "code",
+      "execution_count": 85,
+      "source_chars": 287,
+      "outputs": [
+        "stream"
+      ]
+    },
+    {
+      "index": 6,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 42,
+      "outputs": []
+    },
+    {
+      "index": 7,
+      "type": "code",
+      "execution_count": 86,
+      "source_chars": 302,
+      "outputs": [
+        "execute_result"
+      ]
+    },
+    {
+      "index": 8,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 40,
+      "outputs": []
+    },
+    {
+      "index": 9,
+      "type": "code",
+      "execution_count": 87,
+      "source_chars": 809,
+      "outputs": [
+        "execute_result"
+      ]
+    },
+    {
+      "index": 10,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 145,
+      "outputs": []
+    },
+    {
+      "index": 11,
+      "type": "code",
+      "execution_count": 88,
+      "source_chars": 2119,
+      "outputs": [
+        "stream",
+        "display_data",
+        "display_data",
+        "stream"
+      ]
+    },
+    {
+      "index": 12,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 50,
+      "outputs": []
+    },
+    {
+      "index": 13,
+      "type": "code",
+      "execution_count": 89,
+      "source_chars": 800,
+      "outputs": []
+    },
+    {
+      "index": 14,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 43,
+      "outputs": []
+    },
+    {
+      "index": 15,
+      "type": "code",
+      "execution_count": 90,
+      "source_chars": 2136,
+      "outputs": [
+        "stream",
+        "display_data",
+        "display_data"
+      ]
+    },
+    {
+      "index": 16,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 47,
+      "outputs": []
+    },
+    {
+      "index": 17,
+      "type": "code",
+      "execution_count": 91,
+      "source_chars": 1040,
+      "outputs": [
+        "execute_result"
+      ]
+    },
+    {
+      "index": 18,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 38,
+      "outputs": []
+    },
+    {
+      "index": 19,
+      "type": "code",
+      "execution_count": 92,
+      "source_chars": 761,
+      "outputs": []
+    },
+    {
+      "index": 20,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 25,
+      "outputs": []
+    },
+    {
+      "index": 21,
+      "type": "code",
+      "execution_count": 93,
+      "source_chars": 780,
+      "outputs": [
+        "stream"
+      ]
+    },
+    {
+      "index": 22,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 46,
+      "outputs": []
+    },
+    {
+      "index": 23,
+      "type": "code",
+      "execution_count": 94,
+      "source_chars": 1233,
+      "outputs": [
+        "display_data"
+      ]
+    },
+    {
+      "index": 24,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 37,
+      "outputs": []
+    },
+    {
+      "index": 25,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 23,
+      "outputs": []
+    },
+    {
+      "index": 26,
+      "type": "code",
+      "execution_count": 95,
+      "source_chars": 3651,
+      "outputs": [
+        "stream"
+      ]
+    },
+    {
+      "index": 27,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 23,
+      "outputs": []
+    },
+    {
+      "index": 28,
+      "type": "code",
+      "execution_count": 96,
+      "source_chars": 819,
+      "outputs": []
+    },
+    {
+      "index": 29,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 48,
+      "outputs": []
+    },
+    {
+      "index": 30,
+      "type": "code",
+      "execution_count": 112,
+      "source_chars": 9997,
+      "outputs": []
+    },
+    {
+      "index": 31,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 155,
+      "outputs": []
+    },
+    {
+      "index": 32,
+      "type": "code",
+      "execution_count": 98,
+      "source_chars": 1487,
+      "outputs": [
+        "stream"
+      ]
+    },
+    {
+      "index": 33,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 59,
+      "outputs": []
+    },
+    {
+      "index": 34,
+      "type": "code",
+      "execution_count": 99,
+      "source_chars": 395,
+      "outputs": [
+        "stream"
+      ]
+    },
+    {
+      "index": 35,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 24,
+      "outputs": []
+    },
+    {
+      "index": 36,
+      "type": "code",
+      "execution_count": 100,
+      "source_chars": 926,
+      "outputs": [
+        "display_data"
+      ]
+    },
+    {
+      "index": 37,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 35,
+      "outputs": []
+    },
+    {
+      "index": 38,
+      "type": "code",
+      "execution_count": 101,
+      "source_chars": 233,
+      "outputs": []
+    },
+    {
+      "index": 39,
+      "type": "code",
+      "execution_count": 102,
+      "source_chars": 1584,
+      "outputs": [
+        "stream",
+        "display_data",
+        "display_data"
+      ]
+    },
+    {
+      "index": 40,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 56,
+      "outputs": []
+    },
+    {
+      "index": 41,
+      "type": "code",
+      "execution_count": 103,
+      "source_chars": 624,
+      "outputs": [
+        "stream"
+      ]
+    },
+    {
+      "index": 42,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 54,
+      "outputs": []
+    },
+    {
+      "index": 43,
+      "type": "code",
+      "execution_count": 104,
+      "source_chars": 784,
+      "outputs": [
+        "stream"
+      ]
+    },
+    {
+      "index": 44,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 59,
+      "outputs": []
+    },
+    {
+      "index": 45,
+      "type": "code",
+      "execution_count": 105,
+      "source_chars": 496,
+      "outputs": [
+        "stream"
+      ]
+    },
+    {
+      "index": 46,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 190,
+      "outputs": []
+    },
+    {
+      "index": 47,
+      "type": "code",
+      "execution_count": 106,
+      "source_chars": 528,
+      "outputs": [
+        "stream"
+      ]
+    },
+    {
+      "index": 48,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 215,
+      "outputs": []
+    },
+    {
+      "index": 49,
+      "type": "code",
+      "execution_count": 107,
+      "source_chars": 636,
+      "outputs": [
+        "stream"
+      ]
+    },
+    {
+      "index": 50,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 199,
+      "outputs": []
+    },
+    {
+      "index": 51,
+      "type": "code",
+      "execution_count": 108,
+      "source_chars": 731,
+      "outputs": [
+        "stream",
+        "stream",
+        "stream"
+      ]
+    },
+    {
+      "index": 52,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 153,
+      "outputs": []
+    },
+    {
+      "index": 53,
+      "type": "code",
+      "execution_count": 109,
+      "source_chars": 613,
+      "outputs": [
+        "stream",
+        "stream",
+        "stream"
+      ]
+    },
+    {
+      "index": 54,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 90,
+      "outputs": []
+    },
+    {
+      "index": 55,
+      "type": "code",
+      "execution_count": 110,
+      "source_chars": 4567,
+      "outputs": [
+        "stream"
+      ]
+    },
+    {
+      "index": 56,
+      "type": "markdown",
+      "execution_count": null,
+      "source_chars": 297,
+      "outputs": []
+    },
+    {
+      "index": 57,
+      "type": "code",
+      "execution_count": 113,
+      "source_chars": 4285,
+      "outputs": [
+        "stream",
+        "display_data"
+      ]
+    }
+  ],
+  "errors": [],
+  "images": [
+    {
+      "cell": 11,
+      "path": ".codex_work\\extracted\\msc-major-project-fer_images\\cell_011_output_03_001.png"
+    },
+    {
+      "cell": 15,
+      "path": ".codex_work\\extracted\\msc-major-project-fer_images\\cell_015_output_03_002.png"
+    },
+    {
+      "cell": 23,
+      "path": ".codex_work\\extracted\\msc-major-project-fer_images\\cell_023_output_01_003.png"
+    },
+    {
+      "cell": 36,
+      "path": ".codex_work\\extracted\\msc-major-project-fer_images\\cell_036_output_01_004.png"
+    },
+    {
+      "cell": 39,
+      "path": ".codex_work\\extracted\\msc-major-project-fer_images\\cell_039_output_02_005.png"
+    },
+    {
+      "cell": 39,
+      "path": ".codex_work\\extracted\\msc-major-project-fer_images\\cell_039_output_03_006.png"
+    }
+  ]
+}
