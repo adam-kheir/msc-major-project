@@ -8,7 +8,7 @@ Upcoming Tasks
 
 6. Find a way to simulate edge device
 
+notes-
+RGB vs grayscale
+scratch vs pretrained
 
-
-
-ask about FACE DETECTOR (is it needed to write on/implement, dataset)
