@@ -1,24 +1,24 @@
 task: detect
 mode: train
 model: yolo11n.pt
-data: processed\dataset.yaml
+data: c:\Users\ADAM-\Desktop\MSc Major Project\CWD\processed\dataset.yaml
 epochs: 100
 time: null
-patience: 15
-batch: 32
-imgsz: 640
+patience: 30
+batch: 64
+imgsz: 512
 save: true
 save_period: -1
-cache: true
+cache: disk
 device: '0'
-workers: 8
-project: C:\Users\ADAM-\Desktop\MSc Major Project\CWD\results\repeatability\yolo11n\seed_44
+workers: 2
+project: c:\Users\ADAM-\Desktop\MSc Major Project\CWD\results\repeatability\yolo11n\seed_44
 name: train
 exist_ok: false
 pretrained: true
 cls_remap: true
-optimizer: auto
-verbose: true
+optimizer: AdamW
+verbose: false
 seed: 44
 deterministic: true
 single_cls: false
@@ -72,9 +72,9 @@ simplify: true
 opset: null
 workspace: null
 nms: false
-lr0: 0.01
+lr0: 0.002
 lrf: 0.01
-momentum: 0.937
+momentum: 0.9
 weight_decay: 0.0005
 warmup_epochs: 3.0
 warmup_momentum: 0.8
@@ -93,18 +93,18 @@ dlog: 1.0
 dgrad: 0.5
 dlam: 1.0
 nbs: 64
-hsv_h: 0.015
-hsv_s: 0.7
-hsv_v: 0.4
-degrees: 0.0
-translate: 0.1
-scale: 0.5
+hsv_h: 0.0
+hsv_s: 0.0
+hsv_v: 0.1
+degrees: 3.0
+translate: 0.05
+scale: 0.15
 shear: 0.0
 perspective: 0.0
 flipud: 0.0
 fliplr: 0.5
 bgr: 0.0
-mosaic: 1.0
+mosaic: 0.0
 mixup: 0.0
 cutmix: 0.0
 copy_paste: 0.0
@@ -113,4 +113,5 @@ auto_augment: randaugment
 erasing: 0.4
 cfg: null
 tracker: tracktrack.yaml
+augmentations: []
 save_dir: C:\Users\ADAM-\Desktop\MSc Major Project\CWD\results\repeatability\yolo11n\seed_44\train

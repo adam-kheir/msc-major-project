@@ -1,0 +1,4 @@
+train: "C:/Users/ADAM-/Desktop/MSc Major Project/CWD/processed/cross_validation/fold_2/train.txt"
+val: "C:/Users/ADAM-/Desktop/MSc Major Project/CWD/processed/cross_validation/fold_2/val.txt"
+names:
+  0: gun
